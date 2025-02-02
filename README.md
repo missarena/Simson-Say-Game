@@ -1,0 +1,1 @@
+Simon's Say" (also known as "Simon Says") is a classic memory game where players follow a sequence of instructions given by the flashing of the buttons  The goal is to repeat the actions in the exact order.
